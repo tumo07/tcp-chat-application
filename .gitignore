@@ -1,0 +1,14 @@
+# Compiled binaries
+server
+client
+*.o
+*.out
+*.exe
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Temporary and OS files
+.DS_Store
+Thumbs.db
